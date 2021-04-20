@@ -220,47 +220,47 @@
 
 ## UI-библиотеки, компоненты и шаблоны
 
-**Легенда**: 💙 Официальный ресурс · 📚 Library · 🧩 Components · 📁 Templates
+**Легенда**: 💙 Официальный ресурс · 📚 Библиотека · 🧩 Компоненты · 📁 Шаблоны
 
-- 💙🧩 [Tailwind UI](https://tailwindui.com) - Component library made with Tailwind CSS.
-- 💙📚 [Headless UI](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components.
-- 📚 [VueTailwind](https://github.com/alfonsobries/vue-tailwind) - Vue.js UI library using Tailwind CSS.
-- 📁 [Tailwind Made](https://tailwindmade.com/) - Paid, developer-friendly templates made with Tailwind CSS.
-- 📁 [EasyTailwind](https://easytailwind.now.sh) - Freemium, easily customizable templates made with Tailwind CSS.
-- 🧩 [TailBlocks](https://mertjf.github.io/tailblocks) - 60+ different ready to use Tailwind CSS blocks.
-- 🧩 [Tailwind Components](https://tailwindcomponents.com) - Community-driven Tailwind CSS component repository.
-- 🧩 [Tailwind Toolbox](https://www.tailwindtoolbox.com) - Templates, components and resources.
-- 🧩 [Meraki UI Components](https://merakiui.com) - Beautiful Tailwind CSS components that support RTL languages.
-- 🧩 [Tailwind Cards](https://github.com/hasinhayder/tailwind-cards) - Growing collection of text/image cards.
-- 🧩📁 [Tailwind Templates](https://www.tailwindtemplates.io) - Collection of templates and components.
-- 🧩📁 [Treact](https://treact.owaiskhan.me) - React UI templates and components built using Tailwind CSS.
-- 🧩📁 [Jakarta LTE](https://github.com/zeroblack-c/jakarta-lte) - Admin template using Tailwind CSS.
-- 🧩📁 [themes.dev](https://www.themes.dev/) - Handcrafted, free and premium Tailwind CSS themes and components.
-- 🧩 [Date picker](https://github.com/kenhyuwa/vue-tailwind-picker) - Datepicker component for Vue.js using Tailwind CSS.
-- 🧩 [Kutty](https://kutty.netlify.app) - Accessible and reusable components that are commonly used in web applications.
-- 🧩 [Tailwindow](https://component.tailwindow.com/) - Collection of Tailwind CSS component blocks and UI elements.
-- 🧩 [Sail UI](https://sailui.github.io/) - Collection of basic UI components built on Tailwind CSS.
-- 🧩 [jQuery Toggler](https://craigerskine.github.io/jquery-tailwind-checkbox-toggle) - Switches using jQuery and Tailwind CSS.
-- 🧩 [Tailwind Kit](https://creative-tim.com/learning-lab/tailwind-starter-kit) - Framework-agnostic, Vue.js, React and Angular components.
-- 🧩 [lofi ui](https://lofiui.co/) - Low-fidelity Tailwind CSS components.
-- 🧩 [Gust UI](https://www.gustui.com/) - Sleek Tailwind CSS components for web applications in React and HTML.
-- 🧩 [Windstrap](https://windstrap.netlify.app) - Tailwind CSS with Bootstrap JS.
-- 🧩 [WickedBlocks](https://blocks.wickedtemplates.com/) - Collection of more than 120 layout blocks and components built with Tailwind CSS.
-- 🧩 [Daisy UI](https://github.com/saadeghi/daisyui) - UI Components for Tailwind CSS.
-- 🧩 [Kometa UI Kit](https://kitwind.io/products/kometa/components) - Free multi-purpose UI kit, built with Tailwind CSS.
-- 🧩 [Mamba UI](https://mambaui.com) - Free Tailwind CSS components, sections and templates.
-- 🧩 [Litepie Date picker](https://github.com/kenhyuwa/litepie-datepicker) - A date range picker component for Vue.js and Tailwind CSS.
-- 📁 [Windmill Dashboard](https://windmill-dashboard.vercel.app/) - Multi theme, completely accessible dashboard template.
-- 📁 [Tailwind Admin](https://github.com/tailwindadmin/admin) - Administration panel template with Tailwind CSS.
-- 📁 [Landing Gradients](https://landing-gradients.netlify.app/) - Landing page template using gradients (1.7+).
-- 📁 [Resume](https://github.com/mohusman360/mohusman360.github.io) - Simple resume with Tailwind CSS.
-- 📁 [Resume](https://github.com/Thomashighbaugh/resume) - A stylized resume template built with Tailwind CSS, featuring a nifty hero-pattern background and custom font.
-- 📁 [Simple Light](https://github.com/cruip/tailwind-landing-page-template) - Free landing page template built with React & Tailwind CSS.
-- 📁 [V-Dashboard](https://github.com/wobsoriano/v-dashboard) - Dashboard starter template built with Vue 3 and Tailwind CSS.
-- 📁 [Petra](https://github.com/Smuice-com/Free-Nuxtjs-Tailwindcss-landing-page-template) - Free landing page template built with Nuxt.js & Tailwind CSS.
-- 📚 [a17t](https://a17t.miles.land) - Atomic design toolkit built to extend Tailwind CSS.
-- 📚 [tails-ui](https://github.com/knipferrc/tails-ui) - React UI library using Tailwind CSS.
-- 📚 [tails](https://github.com/thedevdojo/tails) - Hand-crafted templates and components using Tailwind CSS.
+- 💙🧩 [Tailwind UI](https://tailwindui.com) - Библиотека компонентов, созданная с помощью Tailwind CSS.
+- 💙📚 [Headless UI](https://github.com/tailwindlabs/headlessui) - Полностью не стилизованные, полностью доступные компоненты пользовательского интерфейса.
+- 📚 [VueTailwind](https://github.com/alfonsobries/vue-tailwind) - Библиотека пользовательского интерфейса Vue.js с использованием Tailwind CSS.
+- 📁 [Tailwind Made](https://tailwindmade.com/) - Платные, удобные для разработчиков шаблоны, созданные с помощью Tailwind CSS.
+- 📁 [EasyTailwind](https://easytailwind.now.sh) - Свободно распространяемые, легко настраиваемые шаблоны, созданные с помощью Tailwind CSS.
+- 🧩 [TailBlocks](https://mertjf.github.io/tailblocks) - 60+ различных готовых к использованию CSS-блоков Tailwind.
+- 🧩 [Tailwind Components](https://tailwindcomponents.com) - Управляемый сообществом репозиторий компонентов Tailwind CSS.
+- 🧩 [Tailwind Toolbox](https://www.tailwindtoolbox.com) - Шаблоны, компоненты и ресурсы.
+- 🧩 [Meraki UI Components](https://merakiui.com) - Красивые компоненты Tailwind CSS, поддерживающие языки RTL.
+- 🧩 [Tailwind Cards](https://github.com/hasinhayder/tailwind-cards) - Растущая коллекция текстовых/графических карточек.
+- 🧩📁 [Tailwind Templates](https://www.tailwindtemplates.io) - Сборник шаблонов и компонентов.
+- 🧩📁 [Treact](https://treact.owaiskhan.me) - Шаблоны и компоненты пользовательского интерфейса React, созданные с использованием Tailwind CSS.
+- 🧩📁 [Jakarta LTE](https://github.com/zeroblack-c/jakarta-lte) - Шаблон администратора с использованием Tailwind CSS.
+- 🧩📁 [themes.dev](https://www.themes.dev/) - Созданные вручную, бесплатные и премиальные темы и компоненты Tailwind CSS.
+- 🧩 [Date picker](https://github.com/kenhyuwa/vue-tailwind-picker) - Компонент Datepicker для Vue.js с использованием Tailwind CSS.
+- 🧩 [Kutty](https://kutty.netlify.app) - Доступные и повторно используемые компоненты, которые обычно используются в веб-приложениях.
+- 🧩 [Tailwindow](https://component.tailwindow.com/) - Коллекция блоков компонентов Tailwind CSS и элементов пользовательского интерфейса.
+- 🧩 [Sail UI](https://sailui.github.io/) - Сборник базовых компонентов пользовательского интерфейса, созданных на Tailwind CSS.
+- 🧩 [jQuery Toggler](https://craigerskine.github.io/jquery-tailwind-checkbox-toggle) - Переключение с использованием jQuery и Tailwind CSS.
+- 🧩 [Tailwind Kit](https://creative-tim.com/learning-lab/tailwind-starter-kit) - Независимые от фреймворка, компоненты Vue.js, React и Angular.
+- 🧩 [lofi ui](https://lofiui.co/) - Компоненты CSS Tailwind с низкой точностью воспроизведения.
+- 🧩 [Gust UI](https://www.gustui.com/) - Компоненты Sleek Tailwind CSS для веб-приложений на React и HTML.
+- 🧩 [Windstrap](https://windstrap.netlify.app) - Tailwind CSS с Bootstrap JS.
+- 🧩 [WickedBlocks](https://blocks.wickedtemplates.com/) - Коллекция из более чем 120 блоков макета и компонентов, созданных с помощью Tailwind CSS.
+- 🧩 [Daisy UI](https://github.com/saadeghi/daisyui) - Компоненты пользовательского интерфейса для Tailwind CSS.
+- 🧩 [Kometa UI Kit](https://kitwind.io/products/kometa/components) - Бесплатный многоцелевой набор пользовательского интерфейса, созданный с помощью Tailwind CSS.
+- 🧩 [Mamba UI](https://mambaui.com) - Бесплатные компоненты, разделы и шаблоны Tailwind CSS.
+- 🧩 [Litepie Date picker](https://github.com/kenhyuwa/litepie-datepicker) - Компонент выбора диапазона дат для Vue.js и Tailwind CSS.
+- 📁 [Windmill Dashboard](https://windmill-dashboard.vercel.app/) - Многотемный, полностью доступный шаблон панели.
+- 📁 [Tailwind Admin](https://github.com/tailwindadmin/admin) - Шаблон панели администрирования с Tailwind CSS.
+- 📁 [Landing Gradients](https://landing-gradients.netlify.app/) - Шаблон целевой страницы с использованием градиентов (1.7+).
+- 📁 [Resume](https://github.com/mohusman360/mohusman360.github.io) - Простое резюме с Tailwind CSS.
+- 📁 [Resume](https://github.com/Thomashighbaugh/resume) - Стилизованный шаблон резюме, созданный с помощью Tailwind CSS, с изящным фоном в виде героя и настраиваемым шрифтом.
+- 📁 [Simple Light](https://github.com/cruip/tailwind-landing-page-template) - Бесплатный шаблон целевой страницы, созданный с помощью React и Tailwind CSS.
+- 📁 [V-Dashboard](https://github.com/wobsoriano/v-dashboard) - Стартовый шаблон приборной панели, созданный с помощью Vue 3 и Tailwind CSS.
+- 📁 [Petra](https://github.com/Smuice-com/Free-Nuxtjs-Tailwindcss-landing-page-template) - Бесплатный шаблон целевой страницы, созданный с помощью Nuxt.js и Tailwind CSS.
+- 📚 [a17t](https://a17t.miles.land) - Набор инструментов атомарного дизайна, расширяющий возможности Tailwind CSS.
+- 📚 [tails-ui](https://github.com/knipferrc/tails-ui) - Библиотека React UI с использованием Tailwind CSS.
+- 📚 [tails](https://github.com/thedevdojo/tails) - Созданные вручную шаблоны и компоненты с использованием Tailwind CSS.
 
 ## Стартеры и темы
 
