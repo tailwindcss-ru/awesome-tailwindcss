@@ -55,12 +55,12 @@
 
 **Легенда**: 💙 Официальный ресурс
 
-- 💙 [IntelliSense for Code](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) - IntelliSense extension for Visual Studio Code.
-- [Styled Snippets for Code](https://marketplace.visualstudio.com/items?itemName=muhajirframe.tailwind-styled-snippets) - Snippet extension for Visual Studio Code.
-- [Headwind for Code](https://github.com/heybourn/headwind) - Class sorter extension for Visual Studio Code.
-- [Shades for Code](https://github.com/bourhaouta/vscode-tailwindshades) - Color palette generator extension for Visual Studio Code.
-- [IntelliSense for Neovim](https://github.com/iamcco/coc-tailwindcss) - IntelliSense extension for Neovim.
-- [Tailwind CSS Explorer for Code](https://marketplace.visualstudio.com/items?itemName=PeterMekhaeil.vscode-tailwindcss-explorer) - Explore the classes available in your project's Tailwind CSS setup.
+- 💙 [IntelliSense для Code](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) - IntelliSense расширение для Visual Studio Code.
+- [Styled Snippets для Code](https://marketplace.visualstudio.com/items?itemName=muhajirframe.tailwind-styled-snippets) - Snippet расширение для Visual Studio Code.
+- [Headwind для Code](https://github.com/heybourn/headwind) - Расширение сортировщика классов для Visual Studio Code.
+- [Shades для Code](https://github.com/bourhaouta/vscode-tailwindshades) - Расширение генератора цветовой палитры для Visual Studio Code.
+- [IntelliSense для Neovim](https://github.com/iamcco/coc-tailwindcss) - IntelliSense расширение для Neovim.
+- [Tailwind CSS Explorer для Code](https://marketplace.visualstudio.com/items?itemName=PeterMekhaeil.vscode-tailwindcss-explorer) - Изучите классы, доступные в настройке Tailwind CSS вашего проекта.
 
 ## Плагины
 
