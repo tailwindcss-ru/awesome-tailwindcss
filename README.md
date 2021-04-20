@@ -303,13 +303,13 @@
 
 ## Проекты с открытым исходным кодом
 
-- [Goodwork](https://github.com/iluminar/goodwork) - Project Management & Collaboration tool.
-- [Statusfy](https://github.com/bazzite/statusfy) - Status page system using Tailwind CSS.
-- [Todolist](https://github.com/guillaumebriday/todolist-frontend-vuejs) - To-do list application using Tailwind CSS.
-- [LeagueStats](https://github.com/vkaelin/LeagueStats) - Statistics website for League of Легендаs players.
-- [SapperCommerce](https://github.com/itswadesh/sapper-ecommerce) - E-commerce storefront using Svelte & Tailwind CSS.
-- [Misiki Books](https://github.com/itswadesh/misiki-books) - Book shop using Vue + Moltin + Tailwind CSS.
-- [Ubuntu 20.04](https://github.com/vivek9patel/vivek9patel.github.io) - An Ubuntu desktop using React.js + Tailwind CSS.
+- [Goodwork](https://github.com/iluminar/goodwork) - Инструмент управления проектами и совместной работы.
+- [Statusfy](https://github.com/bazzite/statusfy) - Система статусных страниц с использованием Tailwind CSS.
+- [Todolist](https://github.com/guillaumebriday/todolist-frontend-vuejs) - Приложение для создания списка дел с использованием Tailwind CSS.
+- [LeagueStats](https://github.com/vkaelin/LeagueStats) - Сайт статистики игроков League of Legends.
+- [SapperCommerce](https://github.com/itswadesh/sapper-ecommerce) - Витрина электронной коммерции с использованием Svelte и Tailwind CSS.
+- [Misiki Books](https://github.com/itswadesh/misiki-books) - Книжный магазин с использованием Vue + Moltin + Tailwind CSS.
+- [Ubuntu 20.04](https://github.com/vivek9patel/vivek9patel.github.io) - Рабочий стол Ubuntu с использованием React.js + Tailwind CSS.
 
 ## Обучение
 
