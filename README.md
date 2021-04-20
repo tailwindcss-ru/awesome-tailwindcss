@@ -37,9 +37,9 @@
 
 ## Полезные ссылки
 
-**Легенда**: 💙 Официальный ресурс
+**Легенда**: 💙 Официальный ресурс 🌍 Перевод
 
-- [Перевод](https://tailwindcss.su) - Неофициальный перевод документации Tailwind CSS.
+- 🌍 [Перевод](https://tailwindcss.su) - Неофициальный перевод документации Tailwind CSS.
 - 💙 [Веб-сайт](https://tailwindcss.com) - Официальный сайт Tailwind CSS.
 - 💙 [Репозиторий](https://github.com/tailwindcss/tailwindcss) - Официальный репозиторий Tailwind CSS.
 - 💙 [Обсуждения](https://github.com/tailwindcss/tailwindcss/discussions) - Официальное место для общения с другими членами сообщества о Tailwind.
@@ -64,97 +64,97 @@
 
 ## Плагины
 
-**Легенда**: 💙 Official plugin · 🎨 Theming · 💼 Utilities · 🧬 Variants · 🧩 Components · 🛑 Deprecated
+**Легенда**: 💙 Официальный плагин · 🎨 Темы · 💼 Утилиты · 🧬 Варианты · 🧩 Компоненты · 🛑 Устарело
 
-- 💙🧩 [Typography](https://github.com/tailwindlabs/tailwindcss-typography) - Adds a `prose` class for beautiful typographic defaults.
-- 💙💼 [Aspect Ratio](https://github.com/tailwindlabs/tailwindcss-aspect-ratio) - Adds composable aspect ratio utilities.
-- 💙💼 [Line Clamp](https://github.com/tailwindlabs/tailwindcss-line-clamp) - Provides utilities for visually truncating text after a fixed number of lines.
-- 💙 [Forms](https://github.com/tailwindlabs/tailwindcss-forms) - Adds better default styles to form elements.
-- 🎨🧬 [Theming](https://github.com/innocenzi/tailwindcss-theming) - Theming using CSS variables, with dark mode support.
-- 🎨🧬 [Theme Variants](https://github.com/JakeNavith/tailwindcss-theme-variants) - Adds theme variants based on media queries and/or CSS selectors.
-- 🎨🧬 [Multi Theme](https://github.com/estevanmaito/tailwindcss-multi-theme) - Adds theme variants based on a single `theme` property.
-- 🎨🧬 [Theme Swapper](https://github.com/crswll/tailwindcss-theme-swapper) - Theming using CSS variables, with media queries support.
-- 🎨🧬 [Prefers Dark Mode](https://github.com/javifm86/tailwindcss-prefers-dark-mode) - Adds variants based on the `prefers-color-scheme` media query.
-- 🎨🧬 [Dark Mode](https://github.com/danestves/tailwindcss-darkmode) - Adds `dark` variants based on CSS classes.
-- 🎨🧬 [Dark Mode](https://github.com/ChanceArthur/tailwindcss-dark-mode) - Adds `dark` variants based on the `prefers-color-scheme` media query.
-- 💼 [Gap](https://github.com/benface/tailwindcss-gap) - Adds `gap` utilities.
-- 💼 [Aspect Ratio](https://github.com/webdna/tailwindcss-aspect-ratio) - Adds `aspect-ratio` utilities.
-- 💼 [Custom Native](https://github.com/SirNavith/tailwindcss-custom-native) - Leverages Tailwind CSS's configuration to allow the creation of utilities.
-- 💼 [Scroll Snap](https://github.com/innocenzi/tailwindcss-scroll-snap) - Adds `scroll-snap` utilities.
-- 💼 [Shadow Outline Colors](https://github.com/octoper/tailwindcss-shadow-outline-colors) - Adds `box-shadow` utilities based on configured colors.
-- 💼 [Text Indent](https://github.com/hacknug/tailwindcss-text-indent) - Adds `text-indent` utilities.
-- 💼 [Image Rendering](https://github.com/hacknug/tailwindcss-image-rendering) - Adds `image-rendering` utilities.
-- 💼 [Elevation](https://github.com/jonaskay/tailwindcss-elevation) - Adds [Material UI `elevation`](https://material.io/design/environment/elevation.html) utilities.
-- 💼 [Caret Color](https://github.com/GraxMonzo/tailwind-caret-color) - Adds `caret` color utilities.
-- 💼 [Writing Mode](https://github.com/magicspon/tailwindcss-writing-mode) - Adds `writing-mode` utilities.
-- 💼 [Hyphens](https://github.com/philippbosch/tailwindcss-hyphens) - Adds `hyphens` utilities.
-- 💼 [Border Gradients](https://github.com/cossssmin/tailwindcss-border-gradients) - Adds `border-image` gradient utilities.
-- 💼 [RFS](https://github.com/aerni/tailwindcss-rfs) - Adds [`RFS`](https://github.com/twbs/rfs) utilities.
-- 💼 [List Reset](https://github.com/opdavies/tailwindcss-list-reset) - Adds back the `list-reset` class that was removed prior to Tailwind CSS 1.0.
-- 💼 [Fluid](https://github.com/bradlc/tailwindcss-fluid) - Adds fluid sizing utilities.
-- 💼 [Typography](https://github.com/benface/tailwindcss-typography) - Adds typography utilities.
-- 💼 [Triangle After](https://github.com/chrisrowe/tailwindcss-triangle-after) - Adds CSS triangles utilities.
-- 💼 [Scrims](https://github.com/brettgullan/tailwindcss-scrims) - Adds scrims utilities.
-- 💼 [Truncate Multiline](https://github.com/jhta/tailwindcss-truncate-multiline) - Adds utilities to truncate multi-line text elements.
-- 💼 [CSS Logical Properties](https://github.com/omarkhatibco/tailwind-css-logical-properties) - Generate utilities for CSS Logical Properties.
-- 💼 [Tooltip Arrows After](https://github.com/gvital3230/tailwindcss-tooltip-arrow-after) - Adds CSS utilities for tooltip arrows with configurable border and background.
-- 💼 [Bidirectional](https://github.com/20lives/tailwindcss-rtl) - Adds utilities for creating multilingual bidirectional layouts.
-- 💼 [Bidirectional](https://github.com/yassinebridi/tailwind-direction) - Replace the core utilities to be bi-direction compatible.
-- 💼 [Background SVG](https://github.com/AndersNielsen85/tailwindcss-bg-svg) - Inject SVGs as background images with color variants.
-- 💼 [Brand Colors](https://github.com/praveenjuge/tailwindcss-brand-colors) - Adds various brand colors for background, border and text.
-- 💼 [Bootstrap Grid](https://github.com/karolis-sh/tailwind-bootstrap-grid) - Generates Bootstrap's style flexbox grid system.
-- 💼 [Leading Trim](https://github.com/stormwarning/tailwindcss-capsize) - Adds utilities to trim text whitespace, using [Capsize](https://github.com/seek-oss/capsize).
-- 💼 [Text Decoration Color](https://github.com/ahmadawais/tailwind-text-decoration-color) - Adds `text-decoration-color` utilities.
-- 💼 [Scrollbar Hide](https://github.com/reslear/tailwind-scrollbar-hide) - Adds `scrollbar-hide` class for visual hide scrollbar.
-- 💼 [Downwind CSS Easings](https://github.com/downwindcss/easings) - Extends `transition-timing-function` utilities.
-- 💼 [Content Placeholder](https://github.com/javisperez/tailwindcontentplaceholder) - Adds utilities for content placeholder images.
-- 💼 [No Scrollbar](https://github.com/redwebcreation/tailwindcss-no-scrollbar) - Exposes `scrollbar-none` to visually hide a scrollbar.
-- 💼 [Accent Color](https://github.com/lukewarlow/tailwind-accent-color) - Adds accent color utilities.
-- 🧬 [Pseudo](https://github.com/Log1x/tailwindcss-pseudo) - Adds custom variants to Tailwind CSS's configuration.
-- 🧬 [Direction](https://github.com/RonMelkhior/tailwindcss-dir) - Adds `RTL` and `LTR` variants.
-- 🧬 [Touch](https://github.com/SteadfastCollective/tailwindcss-touch) - Adds `touch` variants.
-- 🧬 [Alpha](https://github.com/bradlc/tailwindcss-alpha) - Adds alpha color variants.
-- 🧬 [Localized](https://github.com/hdodov/tailwindcss-localized) - Adds variants based on the HTML `lang` attribute, to use utilities only with certain languages.
-- 🧬 [Important](https://github.com/chasegiunta/tailwindcss-important) - Adds an `important` variant.
-- 🧬 [Padded Radius](https://github.com/locksten/tailwindcss-padded-radius) - Adds variants for matching nested border radii.
-- 🧬 [Fluid](https://github.com/soberwp/tailwindcss-fl) - Generates `fl:` variants.
-- 🧬 [Marker](https://github.com/RadishIO/tailwindcss-marker) - Provides utilities for styling lists and `<summary>` markers.
-- 🧬 [Pseudo selectors](https://github.com/Microwawe/tailwindcss-pseudo-selectors) - Adds variants for the pseudo-classes and pseudo-elements that Tailwind CSS doesn't have by default.
-- 🧩 [Debug Screens](https://github.com/jorenvanhee/tailwindcss-debug-screens) - Adds a component that shows the currently active screen (responsive breakpoint).
-- 🧩 [Heropatterns](https://github.com/AndreaMinato/tailwind-heropatterns) - Adds [Hero Patterns](https://www.heropatterns.com) components.
-- 🧩 [Responsive Embed](https://github.com/drdogbot7/tailwindcss-responsive-embed) - Adds a `responsive-embed` component.
-- 🧩 [Bootstrap Tables](https://github.com/drehimself/tailwindcss-tables) - Adds table components based on Bootstrap's tables.
-- 🧩 [Card](https://github.com/NathanHeffley/tailwindcss-card) - Adds card components.
-- 🧩 [Skip link](https://github.com/opdavies/tailwindcss-skip-link) - Adds a _Skip to main content_ accessible component.
-- 🧩 [Colors to CSS Variables](https://github.com/n1kk/tailwind-color-vars) - Exports color configuration to CSS Custom Properties.
-- 🧩 [CSS Variables](https://github.com/omarkhatibco/tailwind-css-variables) - Exports configuration to CSS Custom Properties.
-- 🧩 [CSS Variables](https://github.com/mertasan/tailwindcss-variables) - Exports custom CSS variables (Dark Mode supported).
+- 💙🧩 [Typography](https://github.com/tailwindlabs/tailwindcss-typography) - Добавляет класс `prose` для красивых типографских настроек по умолчанию.
+- 💙💼 [Aspect Ratio](https://github.com/tailwindlabs/tailwindcss-aspect-ratio) - Добавляет компонуемые утилиты соотношения сторон.
+- 💙💼 [Line Clamp](https://github.com/tailwindlabs/tailwindcss-line-clamp) - Предоставляет утилиты для визуального обрезания текста после фиксированного количества строк.
+- 💙 [Forms](https://github.com/tailwindlabs/tailwindcss-forms) - Добавляет улучшенные стили по умолчанию для элементов формы.
+- 🎨🧬 [Theming](https://github.com/innocenzi/tailwindcss-theming) - Темы с использованием переменных CSS с поддержкой темного режима.
+- 🎨🧬 [Theme Variants](https://github.com/JakeNavith/tailwindcss-theme-variants) - Добавляет варианты темы на основе медиа-запросов и/или селекторов CSS.
+- 🎨🧬 [Multi Theme](https://github.com/estevanmaito/tailwindcss-multi-theme) - Добавляет варианты темы на основе одного свойств `theme`.
+- 🎨🧬 [Theme Swapper](https://github.com/crswll/tailwindcss-theme-swapper) - Тематика с использованием переменных CSS, с поддержкой медиа-запросов.
+- 🎨🧬 [Prefers Dark Mode](https://github.com/javifm86/tailwindcss-prefers-dark-mode) - Добавляет варианты на основе медиа-запроса `prefers-color-scheme`.
+- 🎨🧬 [Dark Mode](https://github.com/danestves/tailwindcss-darkmode) - Добавляет `dark` варианты на основе классов CSS.
+- 🎨🧬 [Dark Mode](https://github.com/ChanceArthur/tailwindcss-dark-mode) - Добавляет `dark` варианты на основе медиа-запроса `prefers-color-scheme`.
+- 💼 [Gap](https://github.com/benface/tailwindcss-gap) - Добавляет утилиты `gap`.
+- 💼 [Aspect Ratio](https://github.com/webdna/tailwindcss-aspect-ratio) - Добавляет утилиты `aspect-ratio`.
+- 💼 [Custom Native](https://github.com/SirNavith/tailwindcss-custom-native) - Использует конфигурацию Tailwind CSS для создания утилит.
+- 💼 [Scroll Snap](https://github.com/innocenzi/tailwindcss-scroll-snap) - Добавляет утилиты `scroll-snap`.
+- 💼 [Shadow Outline Colors](https://github.com/octoper/tailwindcss-shadow-outline-colors) - Добавляет утилиты `box-shadow` на основе настроенных цветов.
+- 💼 [Text Indent](https://github.com/hacknug/tailwindcss-text-indent) - Добавляет утилиты `text-indent`.
+- 💼 [Image Rendering](https://github.com/hacknug/tailwindcss-image-rendering) - Добавляет утилиты `image-rendering`.
+- 💼 [Elevation](https://github.com/jonaskay/tailwindcss-elevation) - Добавляет утилиты [Material UI `elevation`](https://material.io/design/environment/elevation.html).
+- 💼 [Caret Color](https://github.com/GraxMonzo/tailwind-caret-color) - Добавляет утилиты цвета `caret`.
+- 💼 [Writing Mode](https://github.com/magicspon/tailwindcss-writing-mode) - Добавляет утилиты `writing-mode`.
+- 💼 [Hyphens](https://github.com/philippbosch/tailwindcss-hyphens) - Добавляет утилиты `hyphens`.
+- 💼 [Border Gradients](https://github.com/cossssmin/tailwindcss-border-gradients) - Добавляет утилиты градиента `border-image`.
+- 💼 [RFS](https://github.com/aerni/tailwindcss-rfs) - Добавляет утилиты [`RFS`](https://github.com/twbs/rfs).
+- 💼 [List Reset](https://github.com/opdavies/tailwindcss-list-reset) - Возвращает класс `list-reset`, который был удален до выпуска Tailwind CSS 1.0.
+- 💼 [Fluid](https://github.com/bradlc/tailwindcss-fluid) - Добавляет текучие утилиты для определения размера.
+- 💼 [Typography](https://github.com/benface/tailwindcss-typography) - Добавляет утилиты типографики.
+- 💼 [Triangle After](https://github.com/chrisrowe/tailwindcss-triangle-after) - Добавляет утилиты CSS-треугольников.
+- 💼 [Scrims](https://github.com/brettgullan/tailwindcss-scrims) - Добавляет сетку утилит.
+- 💼 [Truncate Multiline](https://github.com/jhta/tailwindcss-truncate-multiline) - Добавляет утилиты для обрезки многострочных текстовых элементов.
+- 💼 [CSS Logical Properties](https://github.com/omarkhatibco/tailwind-css-logical-properties) - Создание утилит для логических свойств CSS.
+- 💼 [Tooltip Arrows After](https://github.com/gvital3230/tailwindcss-tooltip-arrow-after) - Добавляет утилиты CSS для стрелок всплывающих подсказок с настраиваемой рамкой и фоном.
+- 💼 [Bidirectional](https://github.com/20lives/tailwindcss-rtl) - Добавляет утилиты для создания многоязычных двунаправленных макетов.
+- 💼 [Bidirectional](https://github.com/yassinebridi/tailwind-direction) - Замените основные утилиты на двунаправленную совместимость.
+- 💼 [Background SVG](https://github.com/AndersNielsen85/tailwindcss-bg-svg) - Вставляйте SVG в качестве фоновых изображений с цветовыми вариантами.
+- 💼 [Brand Colors](https://github.com/praveenjuge/tailwindcss-brand-colors) - Добавляет различные фирменные цвета для фона, границы и текста.
+- 💼 [Bootstrap Grid](https://github.com/karolis-sh/tailwind-bootstrap-grid) - Создает сетку Flexbox в стиле Bootstrap.
+- 💼 [Leading Trim](https://github.com/stormwarning/tailwindcss-capsize) - Добавляет утилиты для обрезки пробелов в тексте с помощью [Capsize](https://github.com/seek-oss/capsize).
+- 💼 [Text Decoration Color](https://github.com/ahmadawais/tailwind-text-decoration-color) - Добавляет утилиты `text-decoration-color`.
+- 💼 [Scrollbar Hide](https://github.com/reslear/tailwind-scrollbar-hide) - Добавляет класс `scrollbar-hide` для визуального скрытия полосы прокрутки.
+- 💼 [Downwind CSS Easings](https://github.com/downwindcss/easings) - Расширяет утилиты `transition-timing-function`.
+- 💼 [Content Placeholder](https://github.com/javisperez/tailwindcontentplaceholder) - Добавляет утилиты для изображений-заполнителей контента.
+- 💼 [No Scrollbar](https://github.com/redwebcreation/tailwindcss-no-scrollbar) - Предоставляет `scrollbar-none`, чтобы визуально скрыть полосу прокрутки.
+- 💼 [Accent Color](https://github.com/lukewarlow/tailwind-accent-color) - Добавляет утилиты акцентного цвета.
+- 🧬 [Pseudo](https://github.com/Log1x/tailwindcss-pseudo) - Добавить пользовательские варианты в конфигурацию Tailwind CSS.
+- 🧬 [Direction](https://github.com/RonMelkhior/tailwindcss-dir) - Добавляет варианты `RTL` и `LTR`.
+- 🧬 [Touch](https://github.com/SteadfastCollective/tailwindcss-touch) - Добавляет варианты `touch`.
+- 🧬 [Alpha](https://github.com/bradlc/tailwindcss-alpha) - Добавляет варианты альфа-цвета.
+- 🧬 [Localized](https://github.com/hdodov/tailwindcss-localized) - Добавляет варианты на основе HTML-атрибута `lang` для использования утилит только с определенными языками.
+- 🧬 [Important](https://github.com/chasegiunta/tailwindcss-important) - Добавляет вариант `important`.
+- 🧬 [Padded Radius](https://github.com/locksten/tailwindcss-padded-radius) - Добавляет варианты для сопоставления вложенных радиусов границ.
+- 🧬 [Fluid](https://github.com/soberwp/tailwindcss-fl) - Создает варианты `fl:`.
+- 🧬 [Marker](https://github.com/RadishIO/tailwindcss-marker) - Предоставляет утилиты для стилизации списков и маркеров `<summary>`.
+- 🧬 [Pseudo selectors](https://github.com/Microwawe/tailwindcss-pseudo-selectors) - Добавляет варианты псевдоклассов и псевдоэлементов, которых нет в Tailwind CSS по умолчанию.
+- 🧩 [Debug Screens](https://github.com/jorenvanhee/tailwindcss-debug-screens) - Добавляет компонент, который показывает текущий активный экран (отзывчивая контрольная точка).
+- 🧩 [Heropatterns](https://github.com/AndreaMinato/tailwind-heropatterns) - Добавляет компоненты [Hero Patterns](https://www.heropatterns.com).
+- 🧩 [Responsive Embed](https://github.com/drdogbot7/tailwindcss-responsive-embed) - Добавляет компонент `responsive-embed`.
+- 🧩 [Bootstrap Tables](https://github.com/drehimself/tailwindcss-tables) - Добавляет компоненты таблицы на основе таблиц Bootstrap.
+- 🧩 [Card](https://github.com/NathanHeffley/tailwindcss-card) - Добавляет компоненты карточки.
+- 🧩 [Skip link](https://github.com/opdavies/tailwindcss-skip-link) - Добавляет компонент _Пропустить к основному содержимому_.
+- 🧩 [Colors to CSS Variables](https://github.com/n1kk/tailwind-color-vars) - Экспортирует цветовую конфигурацию в настраиваемые свойства CSS.
+- 🧩 [CSS Variables](https://github.com/omarkhatibco/tailwind-css-variables) - Экспорт конфигурации в настраиваемые свойства CSS.
+- 🧩 [CSS Variables](https://github.com/mertasan/tailwindcss-variables) - Экспортирует пользовательские переменные CSS (поддерживается темный режим).
 
-> 🛑 - _The plugins below offer functionalities that are now fully or partially implemented in Tailwind CSS._
+> 🛑 - _Приведенные ниже плагины предлагают функции, которые теперь полностью или частично реализованы в Tailwind CSS._
 
-- 🛑💼 [Caret Color](https://github.com/naoray/tailwind-caret-color) - Adds `caret` color utilities.
-- 🛑💼 [benface's gradients](https://github.com/benface/tailwindcss-gradients) - Adds gradient utilities.
-- 🛑💼 [lorisleiva's gradients](https://github.com/lorisleiva/tailwindcss-plugins/tree/master/gradients) - Adds background gradient utilities.
-- 🛑💼 [Visually Hidden](https://github.com/webdna/tailwindcss-visuallyhidden) - Adds screen reader utilities.
-- 🛑💼 [Object Fit](https://github.com/hendrikeng/tailwindcss-object-fit) - Adds `object-fit` utilities.
-- 🛑💼 [Object Position](https://github.com/hacknug/tailwindcss-object-position) - Adds `object-position` utilities.
-- 🛑💼 [Accessibility](https://github.com/jack-pallot/tailwindcss-accessibility) - Adds screen reader utilities.
-- 🛑💼 [Layout](https://github.com/benface/tailwindcss-layout) - Adds some layout utilities.
-- 🛑💼 [Grid](https://github.com/chrisrowe/tailwindcss-grid) - Adds CSS grids utilities.
-- 🛑💼 [Transforms](https://github.com/benface/tailwindcss-transforms) - Adds `transform` utilities.
-- 🛑💼 [benface's transitions](https://github.com/benface/tailwindcss-transitions) - Adds configurable transition utilities, with or without CSS variables.
-- 🛑💼 [webdna's transitions](https://github.com/webdna/tailwindcss-transition) - Adds configurable transition utilities.
-- 🛑💼 [glhd's transitions](https://github.com/glhd/tailwindcss-plugins) - Adds basic transition utilities.
-- 🛑💼 [Cursor Extended](https://github.com/hacknug/tailwindcss-cursor-extended) - Extends `cursor` utilities.
-- 🛑💼 [Font Variant Numeric](https://github.com/philippbosch/tailwindcss-font-variant-numeric) - Adds `font-variant-numeric` utilities.
-- 🛑💼 [Filters](https://github.com/benface/tailwindcss-filters) - Adds `filter` utilities.
-- 🛑💼 [CSS Filters](https://github.com/Larsklopstra/tailwindcss-css-filters) - Adds `filter` and `backdrop-filter` utilities with defaults.
-- 🛑💼 [Blend Mode](https://github.com/hacknug/tailwindcss-blend-mode) - Adds `blend-mode` utilities.
-- 🛑💼 [Colorize](https://github.com/philippbosch/tailwindcss-colorize) - Adds `filter` utilities.
-- 🛑🧬 [CSS Alpha Colors](https://github.com/soueuls/tailwind-color-alpha) - Adds opacity variants to existing colors.
-- 🛑🧩 [Spinner](https://github.com/aniftyco/tailwindcss-spinner) - Adds a spinner component.
-- 🛑🧩 [Spaced Items](https://github.com/n1kk/tailwindcss-spaced-items) - Adds `spaced` components that add fixed margins to all container items.
-- 🛑🧩💙 [Custom Forms](https://github.com/tailwindlabs/tailwindcss-custom-forms) - Adds better default styles to form elements.
+- 🛑💼 [Caret Color](https://github.com/naoray/tailwind-caret-color) - Добавляет цветовые утилиты `caret`.
+- 🛑💼 [benface's gradients](https://github.com/benface/tailwindcss-gradients) - Добавляет градиентные утилиты.
+- 🛑💼 [lorisleiva's gradients](https://github.com/lorisleiva/tailwindcss-plugins/tree/master/gradients) - Добавляет утилиты фонового градиента.
+- 🛑💼 [Visually Hidden](https://github.com/webdna/tailwindcss-visuallyhidden) - Добавляет утилиты чтения с экрана.
+- 🛑💼 [Object Fit](https://github.com/hendrikeng/tailwindcss-object-fit) - Добавляет утилиты `object-fit`.
+- 🛑💼 [Object Position](https://github.com/hacknug/tailwindcss-object-position) - Добавляет утилиты `object-position`.
+- 🛑💼 [Accessibility](https://github.com/jack-pallot/tailwindcss-accessibility) - Добавляет утилиты чтения с экрана.
+- 🛑💼 [Layout](https://github.com/benface/tailwindcss-layout) - Добавляет некоторые утилиты компоновки.
+- 🛑💼 [Grid](https://github.com/chrisrowe/tailwindcss-grid) - Добавляет утилиты CSS-сеток.
+- 🛑💼 [Transforms](https://github.com/benface/tailwindcss-transforms) - Добавляет утилиты `transform`.
+- 🛑💼 [benface's transitions](https://github.com/benface/tailwindcss-transitions) - Добавляет настраиваемые утилиты перехода с переменными CSS или без них.
+- 🛑💼 [webdna's transitions](https://github.com/webdna/tailwindcss-transition) - Добавляет настраиваемые утилиты перехода.
+- 🛑💼 [glhd's transitions](https://github.com/glhd/tailwindcss-plugins) - Добавляет базовые утилиты перехода.
+- 🛑💼 [Cursor Extended](https://github.com/hacknug/tailwindcss-cursor-extended) - Расширяет утилиты `cursor`.
+- 🛑💼 [Font Variant Numeric](https://github.com/philippbosch/tailwindcss-font-variant-numeric) - Добавляет утилиты `font-variant-numeric`.
+- 🛑💼 [Filters](https://github.com/benface/tailwindcss-filters) - Добавляет утилиты `filter`.
+- 🛑💼 [CSS Filters](https://github.com/Larsklopstra/tailwindcss-css-filters) - Добавляет утилиты `filter` и `backdrop-filter` со значениями по умолчанию.
+- 🛑💼 [Blend Mode](https://github.com/hacknug/tailwindcss-blend-mode) - Добавляет утилиты `blend-mode`.
+- 🛑💼 [Colorize](https://github.com/philippbosch/tailwindcss-colorize) - Добавляет утилиты `filter`.
+- 🛑🧬 [CSS Alpha Colors](https://github.com/soueuls/tailwind-color-alpha) - Добавляет варианты непрозрачности к существующим цветам.
+- 🛑🧩 [Spinner](https://github.com/aniftyco/tailwindcss-spinner) - Добавляет спиннер компонент.
+- 🛑🧩 [Spaced Items](https://github.com/n1kk/tailwindcss-spaced-items) - Добавляет компоненты `spaced`, которые добавляют фиксированные поля ко всем элементам контейнера.
+- 🛑🧩💙 [Custom Forms](https://github.com/tailwindlabs/tailwindcss-custom-forms) - Добавляет улучшенные стили по умолчанию для элементов формы.
 
 ## Инструменты
 
