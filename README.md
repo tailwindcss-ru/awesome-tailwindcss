@@ -158,65 +158,65 @@
 
 ## Инструменты
 
-**Легенда**: 🌍 Accessible online · 🔼 Conversion or upgrade tool · 🔧 Generator · 🅰 Typing/enforcement · 💼 Plugins/Tools/Extensions for external services · 🎨 Color-related · 🚀 Framework
+**Легенда**: 🌍 Доступен онлайн · 🔼 Инструмент для преобразования или обновления · 🔧 Генератор · 🅰 Ввод/принудительное исполнение · 💼 Плагины/инструменты/расширения для внешних служб · 🎨 Связанные с цветом · 🚀 Фреймворк
 
-- 🎨🌍🔧 [Tailwind Color Shades](https://javisperez.github.io/tailwindcolorshades) - Color shades generator for Tailwind CSS.
-- 🎨🌍🔧 [Palette generator](https://adevade.github.io/color-scheme-generator) - Color palette generator that outputs Tailwind CSS configuration files.
-- 🎨🌍🔧 [Tailwindow's Color Shades](https://color.tailwindow.com) - Color shades generator for Tailwind CSS.
-- 🎨🌍🔧 [Tailwind Colors](https://tailwind-colors.meidev.co) - Color configuration generator for Tailwind CSS.
-- 🎨🌍🔧 [Tailwind Color Explorer](https://stefanbuck.com/tailwind-color-theme-explorer) - Color explorer for Tailwind CSS.
-- 🎨🌍🔧 [TailwindInk](https://tailwind.ink/) - AI palette generator, trained with the Tailwind CSS palette.
-- 🎨🌍🔧 [Gradient Designer](https://gradient-designer.csspost.com/) - Generate gradients for Tailwind 2.0+.
-- 🎨🌍🔧 [Grayscale Design](https://grayscale.design/) - A Luminance-based color palette generator.
-- 🎨🌍🔧 [Hypercolor](https://hypercolor.dev/) - Collection of pre-configured Tailwind CSS gradients with directional options.
-- 🎨🌍🔧 [Palettolithic](https://palettolithic.com) - Generates harmonius color palettes based on one color.
-- 🎨🌍💼 [Tailwind CSS v2 colors](https://www.figma.com/community/file/905719775911766776) - Figma library with Tailwind CSS v2 colors.
-- 🎨🔧💼 [Colorkraken](https://github.com/Bouhoum/colorkraken) - Color shades generator for Tailwind CSS.
-- 🎨🔧💼 [babel-plugin-tailwind-dark](https://github.com/wowlusitong/babel-plugin-tailwind-dark) - A Babel plugin to add custom dark class when compiling your code using Babel.
-- 🌍🔧💼 [Twind](https://github.com/tw-in-js/twind) - Compiler functions that turn Tailwind's classes into CSS at run, serve and build time.
-- 🌍🔧 [GPT-3 Tailwind CSS code generator](http://gpt-tailwind.com/) - OpenAI GPT-3 powered Tailwind CSS code generator.
-- 🌍🔧 [Stitches](https://stitches.hyperyolo.com/) - Template generator with Tailwind (online).
-- 🌍🔧 [tail-animista](https://tail-animista.vercel.app) - Configurable custom animation utilities generator for Tailwind CSS.
-- 🌍🔧 [brands-tail-color](https://brands-tail-color.vercel.app/) - Configuration generator using various brands' colors.
-- 🌍 [Typography Playground](https://tailwind-typography-playground.vercel.app/) - Tool for trying different Google Fonts combinations with the Tailwind CSS Typography Plugin.
-- 🌍💙 [Play](https://play.tailwindcss.com/) - Advanced online playground for Tailwind CSS.
-- 🌍 [Updrafts.app](https://updrafts.app/) - Advanced online no-code drag and drop editor for Tailwind CSS.
-- 🌍 [tailwind.run](https://tailwind.run) - Tailwind CSS fiddle with built-time features (online).
-- 🌍 [tailzilla.app](https://tailzilla.app) - Online playground for Tailwind CSS.
-- 🔼🌍 [Tailwind Automatic Prefix Applicator](https://github.vue.tailwind-prefix.cbass.dev) - Tailwind classes' prefixer tool.
-- 🔼🌍 [CSS to Tailwind CSS Converter](https://transform.tools/css-to-tailwind) - Converts CSS to Tailwind CSS by suggesting classes that best match.
-- 🔼 [Tailwindo](https://github.com/awssat/tailwindo) - Bootstrap to Tailwind CSS converter.
-- 🔼 [Tailupgrade](https://github.com/virkillz/tailupgrade) - Conversion tool for upgrading HTML files from Tailwind CSS v0.x to v1.0.
-- 🔼 [Tailwind Shift](https://github.com/awssat/tailwind-shift) - Upgrade tool for upgrading from Tailwind CSS v0.7 to v1.0.
-- 🔼 [RustyWind](https://github.com/avencera/rustywind) - CLI tool for sorting Tailwind CSS classes.
-- 🔼 [Windy](https://usewindy.com) - Browser extension to convert HTML elements to Tailwind CSS.
-- 🅰 [react-native-tailwindcss](https://github.com/TVke/react-native-tailwindcss) - React Native typing system.
-- 🅰 [typed-tailwind](https://github.com/dvkndn/typed-tailwind) - TypeScript typings for Tailwind CSS.
-- 💼 [Gatsby Plugin](https://github.com/muhajirframe/gatsby-plugin-tailwindcss) - Tailwind CSS integration for Gatsby.
-- 💼 [Gridsome Plugin](https://github.com/brandonpittman/gridsome-plugin-tailwindcss) - Tailwind CSS integration for Gridsome.
-- 💼 [Alfred Workflow](https://github.com/clnt/alfred-tailwindcss-docs) - Fast Tailwind CSS documentation search application.
-- 💼 [ng-tailwindcss](https://github.com/tehpsalmist/ng-tailwindcss) - CLI tool for integrating Tailwind CSS into Angular-CLI projects.
-- 💼 [vue-cli-plugin-tailwind](https://github.com/forsartis/vue-cli-plugin-tailwind) - Vue CLI plugin that adds Tailwind CSS to a project.
-- 💼 [Tailwind CSS Figma Kit](https://github.com/impulse/tailwindcss-figma-kit) - Figma Kit for Tailwind CSS.
-- 💼 [Tailwind CSS Figma Plugin](https://github.com/impulse/tailwindcss-figma-plugin) - Figma plugin that integrates Tailwind CSS.
-- 💼 [@nuxtjs/tailwindcss](https://github.com/nuxt-community/tailwindcss-module) - Tailwind CSS module for NuxtJS with PurgeCSS and modern CSS (preset env 1).
-- 💼 [preact-cli-tailwind](https://github.com/agneym/preact-cli-tailwind) - Tailwind CSS integration for Preact.
-- 💼 [tailwind-classes-sorter](https://github.com/Acidic9/tailwind-classes-sorter) - NPM library which provides a utility to sort Tailwind CSS classes.
-- 💼 [prettier-plugin-tailwind](https://github.com/Acidic9/prettier-plugin-tailwind) - Prettier plugin that sorts class lists.
-- 💼 [tailwindcss-rails](https://github.com/rails/tailwindcss-rails) - Gem for using Tailwind CSS with Rails' asset pipeline.
-- 💼🔧 [Zeplin Config & Class generator](https://extensions.zeplin.io/5ae2d20017c57fd249c9876f) - Zeplin extension that generates Tailwind configurations.
-- 💼🔧 [@tailwindcssinjs/macro](https://github.com/Arthie/tailwindcssinjs) - Babel macro that transforms Tailwind CSS classes into objects for CSS-in-JS libraries.
-- 💼🔧 [twin.macro](https://github.com/ben-rogerson/twin.macro) - Use Tailwind classes within any CSS-in-JS library.
-- 💼🔧 [Tailwind Config Viewer](https://github.com/rogden/tailwind-config-viewer) - Local UI tool for visualizing your Tailwind CSS configuration file.
-- 💼🔧 [Laravel Form Components](https://github.com/pascalbaljetmedia/laravel-form-components) - Blade form components using Tailwind CSS Custom Forms.
-- 💼 [@ngneat/tailwind](https://github.com/ngneat/tailwind) - Tailwind CSS integration for Angular.
-- 🔧 [re-tailwind](https://github.com/phthhieu/re-tailwind) - ReasonML utility that generates Tailwind classes.
-- 🔧 [Protoship Codegen](https://protoship.io) - Code generator that creates Tailwind CSS based HTML & CSS from Sketch designs.
-- 🔧 [create-tailwind-plugin](https://github.com/Landish/create-tailwind-plugin) - Plugin scaffolder for Tailwind CSS.
-- 🚀 [Maizzle](https://maizzle.com/) - Framework for rapid email prototyping with Tailwind CSS.
-- 🌍 [Tailwind Cheat Sheet](http://nerdcave.com/tailwind-cheat-sheet) - Tailwind CSS class names cheat sheet.
-- 🌍 [Tailwind Cheat Sheet](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/tailwind.css) - Tailwind CSS class names in one single file.
-- 🌍 [Tailwind Cheat Sheet](https://umeshmk.github.io/Tailwindcss-cheatsheet) - Tailwind CSS class names, variants and directives cheat sheet.
+- 🎨🌍🔧 [Tailwind Color Shades](https://javisperez.github.io/tailwindcolorshades) - Генератор цветовых оттенков для Tailwind CSS.
+- 🎨🌍🔧 [Palette generator](https://adevade.github.io/color-scheme-generator) - Генератор цветовой палитры, выводящий файлы конфигурации Tailwind CSS.
+- 🎨🌍🔧 [Tailwindow's Color Shades](https://color.tailwindow.com) - Генератор цветовых оттенков для Tailwind CSS.
+- 🎨🌍🔧 [Tailwind Colors](https://tailwind-colors.meidev.co) - Генератор цветовой конфигурации для Tailwind CSS.
+- 🎨🌍🔧 [Tailwind Color Explorer](https://stefanbuck.com/tailwind-color-theme-explorer) - Цветовой обозреватель для Tailwind CSS.
+- 🎨🌍🔧 [TailwindInk](https://tailwind.ink/) - Генератор палитры AI, обученный с палитрой Tailwind CSS.
+- 🎨🌍🔧 [Gradient Designer](https://gradient-designer.csspost.com/) - Создание градиентов для Tailwind 2.0+.
+- 🎨🌍🔧 [Grayscale Design](https://grayscale.design/) - Генератор цветовой палитры на основе яркости.
+- 🎨🌍🔧 [Hypercolor](https://hypercolor.dev/) - Коллекция предварительно настроенных градиентов Tailwind CSS с параметрами направления.
+- 🎨🌍🔧 [Palettolithic](https://palettolithic.com) - Создает гармоничные цветовые палитры на основе одного цвета.
+- 🎨🌍💼 [Tailwind CSS v2 colors](https://www.figma.com/community/file/905719775911766776) - Библиотека Figma с цветами Tailwind CSS v2.
+- 🎨🔧💼 [Colorkraken](https://github.com/Bouhoum/colorkraken) - Генератор цветовых оттенков для Tailwind CSS.
+- 🎨🔧💼 [babel-plugin-tailwind-dark](https://github.com/wowlusitong/babel-plugin-tailwind-dark) - Плагин Babel для добавления пользовательского темного класса при компиляции кода с помощью Babel.
+- 🌍🔧💼 [Twind](https://github.com/tw-in-js/twind) - Функции компилятора, которые превращают классы Tailwind в CSS во время выполнения, обслуживания и сборки.
+- 🌍🔧 [GPT-3 Tailwind CSS code generator](http://gpt-tailwind.com/) - Генератор кода CSS Tailwind на базе OpenAI GPT-3.
+- 🌍🔧 [Stitches](https://stitches.hyperyolo.com/) - Генератор шаблонов с Tailwind (онлайн).
+- 🌍🔧 [tail-animista](https://tail-animista.vercel.app) - Настраиваемый генератор пользовательских утилит анимации для Tailwind CSS.
+- 🌍🔧 [brands-tail-color](https://brands-tail-color.vercel.app/) - Генератор конфигурации с использованием цветов различных брендов.
+- 🌍 [Typography Playground](https://tailwind-typography-playground.vercel.app/) - Инструмент для опробования различных комбинаций шрифтов Google с плагином Tailwind CSS Typography.
+- 🌍💙 [Play](https://play.tailwindcss.com/) - Продвинутая онлайн-площадка для Tailwind CSS.
+- 🌍 [Updrafts.app](https://updrafts.app/) - Продвинутый онлайн-редактор перетаскивания без кода для Tailwind CSS.
+- 🌍 [tailwind.run](https://tailwind.run) - CSS-скрипт Tailwind со встроенными функциями (онлайн).
+- 🌍 [tailzilla.app](https://tailzilla.app) - Онлайн-площадка для Tailwind CSS.
+- 🔼🌍 [Tailwind Automatic Prefix Applicator](https://github.vue.tailwind-prefix.cbass.dev) - Инструмент префикса классов Tailwind.
+- 🔼🌍 [CSS to Tailwind CSS Converter](https://transform.tools/css-to-tailwind) - Преобразует CSS в Tailwind CSS, предлагая классы, которые лучше всего подходят.
+- 🔼 [Tailwindo](https://github.com/awssat/tailwindo) - Конвертер Bootstrap в Tailwind CSS.
+- 🔼 [Tailupgrade](https://github.com/virkillz/tailupgrade) - Инструмент преобразования для обновления файлов HTML с Tailwind CSS v0.x до v1.0.
+- 🔼 [Tailwind Shift](https://github.com/awssat/tailwind-shift) - Инструмент обновления для обновления с Tailwind CSS v0.7 до v1.0.
+- 🔼 [RustyWind](https://github.com/avencera/rustywind) - Инструмент командной строки для сортировки классов CSS Tailwind.
+- 🔼 [Windy](https://usewindy.com) - Расширение браузера для преобразования HTML-элементов в Tailwind CSS.
+- 🅰 [react-native-tailwindcss](https://github.com/TVke/react-native-tailwindcss) - Система набора React Native.
+- 🅰 [typed-tailwind](https://github.com/dvkndn/typed-tailwind) - Типы TypeScript для Tailwind CSS.
+- 💼 [Gatsby Plugin](https://github.com/muhajirframe/gatsby-plugin-tailwindcss) - Интеграция Tailwind CSS для Gatsby.
+- 💼 [Gridsome Plugin](https://github.com/brandonpittman/gridsome-plugin-tailwindcss) - Интеграция Tailwind CSS для Gridsome.
+- 💼 [Alfred Workflow](https://github.com/clnt/alfred-tailwindcss-docs) - Приложение для поиска документации Fast Tailwind CSS.
+- 💼 [ng-tailwindcss](https://github.com/tehpsalmist/ng-tailwindcss) - Инструмент командной строки для интеграции Tailwind CSS в проекты Angular-CLI.
+- 💼 [vue-cli-plugin-tailwind](https://github.com/forsartis/vue-cli-plugin-tailwind) - Плагин Vue CLI, который добавляет Tailwind CSS в проект.
+- 💼 [Tailwind CSS Figma Kit](https://github.com/impulse/tailwindcss-figma-kit) - Набор Figma для Tailwind CSS.
+- 💼 [Tailwind CSS Figma Plugin](https://github.com/impulse/tailwindcss-figma-plugin) - Плагин Figma, интегрирующий Tailwind CSS.
+- 💼 [@nuxtjs/tailwindcss](https://github.com/nuxt-community/tailwindcss-module) - Модуль Tailwind CSS для NuxtJS с PurgeCSS и современным CSS (предустановленный env 1).
+- 💼 [preact-cli-tailwind](https://github.com/agneym/preact-cli-tailwind) - Интеграция Tailwind CSS для Preact.
+- 💼 [tailwind-classes-sorter](https://github.com/Acidic9/tailwind-classes-sorter) - Библиотека NPM, которая предоставляет утилиту для сортировки классов Tailwind CSS.
+- 💼 [prettier-plugin-tailwind](https://github.com/Acidic9/prettier-plugin-tailwind) - Плагин Prettier, сортирующий списки классов.
+- 💼 [tailwindcss-rails](https://github.com/rails/tailwindcss-rails) - Gem для использования Tailwind CSS с конвейером ресурсов Rails.
+- 💼🔧 [Zeplin Config & Class generator](https://extensions.zeplin.io/5ae2d20017c57fd249c9876f) - Расширение Zeplin, которое генерирует конфигурации Tailwind.
+- 💼🔧 [@tailwindcssinjs/macro](https://github.com/Arthie/tailwindcssinjs) - Макрос Babel, преобразующий классы CSS Tailwind в объекты для библиотек CSS-in-JS.
+- 💼🔧 [twin.macro](https://github.com/ben-rogerson/twin.macro) - Используйте классы Tailwind в любой библиотеке CSS-in-JS.
+- 💼🔧 [Tailwind Config Viewer](https://github.com/rogden/tailwind-config-viewer) - Инструмент локального пользовательского интерфейса для визуализации файла конфигурации Tailwind CSS.
+- 💼🔧 [Laravel Form Components](https://github.com/pascalbaljetmedia/laravel-form-components) - Компоненты формы Blade с использованием пользовательских форм Tailwind CSS.
+- 💼 [@ngneat/tailwind](https://github.com/ngneat/tailwind) - Интеграция Tailwind CSS для Angular.
+- 🔧 [re-tailwind](https://github.com/phthhieu/re-tailwind) - Утилита ReasonML, которая генерирует классы Tailwind.
+- 🔧 [Protoship Codegen](https://protoship.io) - Генератор кода, который создает HTML и CSS на основе Tailwind CSS из проектов Sketch.
+- 🔧 [create-tailwind-plugin](https://github.com/Landish/create-tailwind-plugin) - Плагин scaffolder для Tailwind CSS.
+- 🚀 [Maizzle](https://maizzle.com/) - Фреймворк для быстрого прототипирования электронной почты с помощью Tailwind CSS.
+- 🌍 [Tailwind Cheat Sheet](http://nerdcave.com/tailwind-cheat-sheet) - Шпаргалка по именам классов Tailwind CSS.
+- 🌍 [Tailwind Cheat Sheet](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/tailwind.css) - Имена классов CSS Tailwind в одном файле.
+- 🌍 [Tailwind Cheat Sheet](https://umeshmk.github.io/Tailwindcss-cheatsheet) - Шпаргалка по именам, вариантам и директивам Tailwind CSS.
 
 ## UI-библиотеки, компоненты и шаблоны
 
