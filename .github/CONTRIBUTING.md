@@ -1,91 +1,91 @@
-# Contributing Guide
+# Руководство по участию
 
-Please be sure to follow the [Tailwind CSS Community Guidelines](https://github.com/tailwindcss/tailwindcss/blob/master/.github/CODE_OF_CONDUCT.md). After your pull request, this list must still be [Awesome](https://github.com/sindresorhus/awesome)-elligible.
+Обязательно соблюдайте [Правила сообщества Tailwind CSS](https://github.com/tailwindcss/tailwindcss/blob/master/.github/CODE_OF_CONDUCT.md). После ПР этот список должен быть приемлемым для [Awesome](https://github.com/sindresorhus/awesome).
 
-## General Guidelines
+## Общие рекомендации
 
-1. The formats and categories described below must be respected.
-2. The added item must be **awesome**. If you have doubts about its awesomess, it probably isn't... sorry.
-   - > Only has awesome items. Awesome lists are curations of the best, not everything. _— [Awesome Guidelines](https://github.com/sindresorhus/awesome/blob/master/pull_request_template.md#requirements-for-your-awesome-list)_
-3. Unless specified otherwise below, an item must be added to the bottom of its emoji group.
-4. [`awesome-lint`](https://github.com/sindresorhus/awesome-lint) must be used before creating a pull request.
-5. Your project must not violate the [Tailwind brand usage guidelines](https://tailwindcss.com/brand#usage).
+1. Должны соблюдаться форматы и категории, описанные ниже.
+2. Добавленный элемент должен быть **отличным**. Если вы сомневаетесь в его великолепии, скорее всего, это не ... извините.
+   - > Только классные предметы. Великолепные списки - это подборка лучших вещей, а не всего. _— [Замечательные рекомендации](https://github.com/sindresorhus/awesome/blob/master/pull_request_template.md#requirements-for-your-awesome-list)_
+3. Если ниже не указано иное, элемент необходимо добавить в конец своей группы смайлов.
+4. Перед созданием пул реквеста необходимо использовать [`awesome-lint`](https://github.com/sindresorhus/awesome-lint).
+5. Ваш проект не должен нарушать [правила использования бренда Tailwind](https://tailwindcss.com/brand#usage).
 
-## Formats, Naming Conventions and Descriptions
+## Форматы, соглашения об именах и описания
 
-- Every item must have the following format: `[Item Name](link) - Description.`.
-- If a category has an emoji that applies to a new item, it must be used.
-- Every name and description must be in English.
-- Every mention to Tailwind CSS must use the exact name `Tailwind CSS`, except for plugin/library/product names.
+- Каждый элемент должен иметь следующий формат: `[Имя элемента](ссылка) - Описание.`.
+- Если в категории есть смайлик, относящийся к новому элементу, его необходимо использовать.
+- Каждое имя и описание должны быть на английском языке.
+- При каждом упоминании Tailwind CSS должно использоваться точное имя `Tailwind CSS`, за исключением названий плагинов/библиотек/продуктов.
   - ✖ `TailwindCSS`
   - ✖ `tailwind CSS`
   - ✖ `Tailwind`
-- Descriptions must not start with "The", "A" or similar.
-  - ✔ Component library made with Tailwind CSS.
-  - ✖ A plugin that adds variants for dark mode.
-  - ✖ A tool for upgrading Tailwind CSS.
-- Descriptions must start with an uppercase character and ends with a period.
-- Descriptions must be **short** and **explicit**.
-  - ✔ Adds better default styles to form elements.
-  - ✔ Adds configurable transition utilities, with or without CSS variables.
-  - ✖ Adds classes for showing and hiding elements in different display variations in combination with Vue's v-cloak directive. - **Too long**
-  - ✖ Adds utility classes - **Not explicit**
-- [Plugins](README.md/#plugins) descriptions must start with a verb.
-  - ✔ Adds `object-position` utilities.
-  - ✔ Extends `object-position` utilities.
-  - ✖ A plugin that adds variants for dark mode.
-  - ✖ Additional variants for touch based media queries.
-- Descriptions must describe the resource, not be a slogan. This rule applies to every resource sub-category except [Demos, Samples & Tutorials](README.md/#demos-samples--tutorials).
-  - ✔ Visual Studio Code IntelliSense extension for Tailwind CSS.
-  - ✔ React UI library using Tailwind CSS.
-  - ✖ Brings Tailwind CSS into React.
-- [Learning](README.md/#learning) resources' descriptions must be a short but explicit description of the content. It _should_ start with a verb or by "How to" when applicable.
-  - ✔ Rebuilding Acquia’s hosting dashboard with Vue.js and Tailwind CSS.
-  - ✖ Acquia’s hosting dashboard rebuilt with Vue.js and Tailwind CSS.
-  - ✔ How to setup Tailwind CSS in Phoenix 1.4.
-  - ✖ Setting up Tailwind CSS in Phoenix 1.4
+- Описание не должно начинаться с "The", "A" или аналогичных.
+  - ✔ Библиотека компонентов, созданная с помощью Tailwind CSS.
+  - ✖ Плагин, который добавляет варианты темного режима.
+  - ✖ Инструмент для обновления Tailwind CSS.
+- Описание должно начинаться с заглавной буквы и заканчиваться точкой.
+- Описание должно быть **кратким** и **явным**.
+  - ✔ Добавляет улучшенные стили по умолчанию для элементов формы.
+  - ✔ Добавляет настраиваемые утилиты перехода с переменными CSS или без них.
+  - ✖ Добавляет классы для отображения и скрытия элементов в различных вариантах отображения в сочетании с директивой Vue v-cloak. - **Слишком долго**
+  - ✖ Добавляет утилиты классов - **Не явно**
+- [Плагины](README.md/#plugins) описания должны начинаться с глагола.
+  - ✔ Добавляет утилиты `object-position`.
+  - ✔ Расширяет утилиты `object-position`.
+  - ✖ Плагин, который добавляет варианты темного режима.
+  - ✖ Дополнительные варианты для сенсорных медиа-запросов.
+- Описания должны описывать ресурс, а не быть слоганом. Это правило применяется ко всем подкатегориям ресурсов, кроме [Демоверсии, образцы и руководства](README.md/#demos-samples--tutorials).
+  - ✔ Расширение Visual Studio Code IntelliSense для Tailwind CSS.
+  - ✔ Библиотека React UI с использованием Tailwind CSS.
+  - ✖ Добавляет Tailwind CSS в React.
+- [Изучение](README.md/#learning) описания ресурсов должно быть кратким, но явным описанием содержания. Оно _должно_ начинаться с глагола или с "Как сделать", если применимо.
+  - ✔ Восстановление панели управления хостингом Acquia с использованием Vue.js и Tailwind CSS.
+  - ✖ Панель управления хостингом Acquia перестроена с использованием Vue.js и Tailwind CSS.
+  - ✔ Как настроить Tailwind CSS в Phoenix 1.4.
+  - ✖ Настройка Tailwind CSS в Phoenix 1.4
 
-# Categories
+# Категории
 
-## Useful Links
+## Полезные ссылки
 
-This category contains resources that are official _or_ widely known and used in the Tailwind CSS community. If you find something that we forgot to add here, or if you built something a while ago that has become quite popular in the community, feel free to add it. Otherwise, it most likely belongs in the other categories.
+Эта категория содержит ресурсы, которые официально _или_ широко известны и используются в сообществе Tailwind CSS. Если вы найдете что-то, что мы забыли добавить здесь, или если вы недавно создали что-то, что стало довольно популярным в сообществе, не стесняйтесь добавлять это. В противном случае он, скорее всего, принадлежит к другим категориям.
 
-## IDE Extensions
+## Расширения IDE
 
-If you made an extension that makes the usage of Tailwind CSS easier, make sure it is properly distributable before adding it to the list. Please use the format `[<extension type/functionality> for <IDE name>](link) - <Extension functionality> for <Full IDE name>` when applicable.
+Если вы сделали расширение, упрощающее использование Tailwind CSS, убедитесь, что оно правильно распространяется, прежде чем добавлять его в список. Пожалуйста, используйте формат `[<extension type/functionality> for <IDE name>](link) - <Extension functionality> for <Full IDE name>`, если применимо.
 
-## Plugins
+## Плагины
 
-This category must only contain Tailwind CSS plugins that use the [official plugin architecture](https://tailwindcss.com/docs/plugins/) to extend the framework. New plugins must be added to the bottom of the corresponding category, represented by emojis.
+Эта категория должна содержать только плагины Tailwind CSS, которые используют [официальную архитектуру плагинов](https://tailwindcss.com/docs/plugins/) для расширения фреймворка. Новые плагины должны быть добавлены в нижнюю часть соответствующей категории, представленной смайликами.
 
-## Tools
+## Инструменты
 
-Tools can be anything that help with setting up or working with Tailwind CSS, or stuff that extend other services to bring Tailwind CSS in them.
+Инструментами могут быть все, что помогает в настройке или работе с Tailwind CSS, или что-то, что расширяет возможности других сервисов, чтобы добавить в них Tailwind CSS.
 
-## UI Libraries, Components & Templates
+## UI-библиотеки, компоненты и шаблоны
 
-This category must contain UI libraries made for Tailwind CSS, as well as standalone components that are optimized for distribution. Non-tool-agnostic templates should be added to the **Starters & Themes** category.
+Эта категория должна содержать библиотеки пользовательского интерфейса, созданные для Tailwind CSS, а также отдельные компоненты, оптимизированные для распространения. Шаблоны, не зависящие от инструментов, следует добавить в категорию **Стартеры и темы**.
 
-## Starters & Themes
+## Стартеры и темы
 
-This category contains boilerplates projects, starters projects and tools made for using Tailwind CSS as well as tool themes made for Tailwind CSS.
+Эта категория содержит стандартные проекты, начальные проекты и инструменты, созданные для использования Tailwind CSS, а также темы инструментов, созданные для Tailwind CSS.
 
-## Open-Source Projects
+## Проекты с открытым исходным кодом
 
-Open-source projects that use Tailwind CSS can be featured in this category if you feel that it is awesome enough. Please don't add newly-created projects, and wait for them to get sort of popular before sending your pull request.
+Проекты с открытым исходным кодом, использующие Tailwind CSS, могут быть включены в эту категорию, если вы считаете, что это достаточно круто. Пожалуйста, не добавляйте вновь созданные проекты и подождите, пока они станут популярными, прежде чем отправлять свой пул-реквест.
 
-## Learning
+## Обучение
 
-Anything that is a material that can be used to better understand Tailwind CSS can be added here. Awesome blog posts, code samples, tutorials on any platform are welcome.
+Здесь можно добавить все, что является материалом, который можно использовать для лучшего понимания Tailwind CSS. Приветствуются классные сообщения в блогах, примеры кода, руководства для любой платформы.
 
-# Pull request and commits
+# Пул реквесты и коммиты
 
-You can name your pull request and commits however you want, but for clarity, [conventional commits](http://conventionalcommits.org/) are welcome. Pull request will be squashed upon merge.
+Вы можете назвать свой пул-реквест и коммитить как хотите, но для ясности приветствуются [обычные коммиты](http://conventionalcommits.org/). Пул реквест будет сжат при слиянии.
 
-Here are the keywords used in this list:
+Вот ключевые слова, используемые в этом списке:
 
-- `add` — For adding a resource to the list. - eg. `add(adapters): Vue.js adapter`
-- `remove` — For removing a resource to the list. - eg. `remove(item-name): outdated resource`
-- `update` — For updating a resource to the list. - eg. `update(item-name): fix typographical error in description`
-- `chore` — For anything else.
+- `add` — Для добавления ресурса в список. - например: `add(adapters): Vue.js adapter`
+- `remove` — Для удаления ресурса из списка. - например: `remove(item-name): outdated resource`
+- `update` — Для обновления ресурса в списке. - например: `update(item-name): fix typographical error in description`
+- `chore` — Для всего остального.
