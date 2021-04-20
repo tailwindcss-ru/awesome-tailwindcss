@@ -7,10 +7,10 @@
   <br />
 </p>
 
-<h2 align="center">Awesome Tailwind CSS</h2>
+<h2 align="center">Великолепный Tailwind CSS</h2>
 
 <p align="center">
-  <a href="https://tailwindcss.com">Tailwind CSS</a> is a utility-first CSS framework for rapidly building custom user interfaces.
+  <a href="https://tailwindcss.com">Tailwind CSS</a> - это CSS-фреймворк для быстрого создания пользовательских интерфейсов.
   <br />
   <br />
   <a href="https://github.com/sindresorhus/awesome">
@@ -24,18 +24,18 @@
   <br />
 </p>
 
-## Contents
+## Содержание
 
-- [Useful Links](#useful-links)
-- [IDE Extensions](#ide-extensions)
-- [Plugins](#plugins)
-- [Tools](#tools)
-- [UI Libraries, Components & Templates](#ui-libraries-components--templates)
-- [Starters & Themes](#starters--themes)
-- [Open-Source Projects](#open-source-projects)
-- [Learning](#learning)
+- [Полезные ссылки](#useful-links)
+- [Расширения IDE](#ide-extensions)
+- [Плагины](#plugins)
+- [Инструменты](#tools)
+- [UI-библиотеки, компоненты и шаблоны](#ui-libraries-components--templates)
+- [Стартеры и темы](#starters--themes)
+- [Проекты с открытым исходным кодом](#open-source-projects)
+- [Обучение](#learning)
 
-## Useful Links
+## Полезные ссылки
 
 **Legend**: 💙 Official resource
 
@@ -50,7 +50,7 @@
 - [Tailwind Weekly](https://tailwindweekly.com/) - Weekly newsletter about all things Tailwind CSS.
 - [Built With Tailwind](https://builtwithtailwind.com/) - Community-driven collection of awesome websites built with Tailwind CSS.
 
-## IDE Extensions
+## Расширения IDE
 
 **Legend**: 💙 Official resource
 
@@ -61,7 +61,7 @@
 - [IntelliSense for Neovim](https://github.com/iamcco/coc-tailwindcss) - IntelliSense extension for Neovim.
 - [Tailwind CSS Explorer for Code](https://marketplace.visualstudio.com/items?itemName=PeterMekhaeil.vscode-tailwindcss-explorer) - Explore the classes available in your project's Tailwind CSS setup.
 
-## Plugins
+## Плагины
 
 **Legend**: 💙 Official plugin · 🎨 Theming · 💼 Utilities · 🧬 Variants · 🧩 Components · 🛑 Deprecated
 
@@ -155,7 +155,7 @@
 - 🛑🧩 [Spaced Items](https://github.com/n1kk/tailwindcss-spaced-items) - Adds `spaced` components that add fixed margins to all container items.
 - 🛑🧩💙 [Custom Forms](https://github.com/tailwindlabs/tailwindcss-custom-forms) - Adds better default styles to form elements.
 
-## Tools
+## Инструменты
 
 **Legend**: 🌍 Accessible online · 🔼 Conversion or upgrade tool · 🔧 Generator · 🅰 Typing/enforcement · 💼 Plugins/Tools/Extensions for external services · 🎨 Color-related · 🚀 Framework
 
@@ -217,7 +217,7 @@
 - 🌍 [Tailwind Cheat Sheet](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/tailwind.css) - Tailwind CSS class names in one single file.
 - 🌍 [Tailwind Cheat Sheet](https://umeshmk.github.io/Tailwindcss-cheatsheet) - Tailwind CSS class names, variants and directives cheat sheet.
 
-## UI Libraries, Components & Templates
+## UI-библиотеки, компоненты и шаблоны
 
 **Legend**: 💙 Official resource · 📚 Library · 🧩 Components · 📁 Templates
 
@@ -261,7 +261,7 @@
 - 📚 [tails-ui](https://github.com/knipferrc/tails-ui) - React UI library using Tailwind CSS.
 - 📚 [tails](https://github.com/thedevdojo/tails) - Hand-crafted templates and components using Tailwind CSS.
 
-## Starters & Themes
+## Стартеры и темы
 
 **Legend**: 💼 Package · 📟 Command line tool/generator · 🚀 Cloneable
 
@@ -300,7 +300,7 @@
 - 🚀 [Shopify Theme Lab](https://github.com/uicrooks/shopify-theme-lab) - Shopify theme development starter using Vue and Tailwind CSS.
 - 🚀 [Starter Dashboard Layout](https://github.com/Kamona-WD/starter-dashboard-layout) - Dashboard layout using Tailwind CSS and Alpine JS.
 
-## Open-Source Projects
+## Проекты с открытым исходным кодом
 
 - [Goodwork](https://github.com/iluminar/goodwork) - Project Management & Collaboration tool.
 - [Statusfy](https://github.com/bazzite/statusfy) - Status page system using Tailwind CSS.
@@ -310,7 +310,7 @@
 - [Misiki Books](https://github.com/itswadesh/misiki-books) - Book shop using Vue + Moltin + Tailwind CSS.
 - [Ubuntu 20.04](https://github.com/vivek9patel/vivek9patel.github.io) - An Ubuntu desktop using React.js + Tailwind CSS.
 
-## Learning
+## Обучение
 
 **Legend**: 💙 Official resource · 🧪 Sample · 🔧 Setup Tutorial · 🎬 Video Tutorial · 🎓 Component or Page Tutorial · 🎥 Cast
 
@@ -367,5 +367,5 @@
   ·
   <br />
   <br />
-  <sub>Contributions welcome! Read the <a href=".github/CONTRIBUTING.md">contribution guidelines</a> first.</sub>
+  <sub>Участие приветствуется! Сначала прочтите <a href=".github/CONTRIBUTING.md">руководство по вкладу</a>.</sub>
 </p>
