@@ -313,47 +313,47 @@
 
 ## Обучение
 
-**Легенда**: 💙 Официальный ресурс · 🧪 Sample · 🔧 Setup Tutorial · 🎬 Video Tutorial · 🎓 Component or Page Tutorial · 🎥 Cast
+**Легенда**: 💙 Официальный ресурс · 🧪 Образец · 🔧 Учебник по настройке · 🎬 Видеоурок · 🎓 Учебное пособие по компонентам или страницам · 🎥 Трансляция
 
-- 💙🧪 [Plugin Examples](https://github.com/tailwindlabs/tailwindcss-plugin-examples) - Official plugin examples.
-- 🧪 [Tailwind Dark Mode Theme Switcher](https://github.com/huphtur/tailwind-theme-switcher) - Switching themes with CSS Custom Properties and Tailwind CSS.
-- 🧪 [Acquia](https://github.com/opdavies/rebuilding-acquia) - Acquia's hosting dashboard rebuilt with Vue.js and Tailwind CSS.
-- 🧪 [Navbar](https://codepen.io/joshmanders/pen/PQQBoR) - Navbar made with Vue.js and Tailwind CSS.
-- 🧪 [Toggle switch](https://github.com/TowelSoftware/tailwindcss-toggle) - Switch using Tailwind CSS.
-- 🧪 [“Open” landing page](https://github.com/michelegera/tailwindcss-open-template/) - “Open” landing page template by Cruip built with Tailwind CSS Boilerplate.
-- 🔧 [Testing Tailwind CSS plugins with Jest](https://www.oliverdavies.uk/articles/testing-tailwindcss-plugins-with-jest) - How to test Tailwind CSS plugins with Jest.
-- 🔧 [Tailwind CSS with Webpack 4 and PostCSS](https://paramagicdev.github.io/my-blog/javascript/tailwindWebpackPostCSS) - How to setup Tailwind CSS with PostCSS and Webpack.
-- 🔧 [Tailwind CSS with CSS-in-JS](https://medium.com/@AndrewDelPrete/using-tailwindcss-with-css-in-js-32ae6796f95c) - How to use Tailwind CSS with CSS-in-JS.
-- 🔧 [Tailwind CSS in a Laravel Project](https://nick-basile.com/blog/post/setting-up-tailwind-in-a-laravel-project) - How to setup Tailwind CSS in a Laravel project.
-- 🔧 [Tailwind CSS with Ember](https://eaf4.com/how-to-add-tailwindcss-to-an-ember-app) - How to add Tailwind CSS to an Ember application.
-- 🔧 [Sage WordPress theme and Tailwind CSS](https://roots.io/guides/how-to-setup-tailwind-css-in-sage) - How to setup Tailwind CSS in Sage.
-- 🔧 [Tailwind CSS with GatsbyJS](https://dev.to/jakedohm_34/using-tailwind-with-gatsby-js-10fj) - How to use Tailwind CSS with Gatsby.
-- 🔧 [Tailwind CSS with Phoenix 1.4](https://equimper.com/blog/how-to-setup-tailwindcss-in-phoenix-1.4) - How to setup Tailwind CSS in Phoenix 1.4.
-- 🔧 [Extend Tailwind CSS](https://web-crunch.com/how-to-extend-tailwind-css) - How to Extend Tailwind CSS.
-- 🔧 [Web2Tailwind](https://web2tailwind.com) - How to build web components with Tailwind CSS with AlpineJS.
-- 🎬 [Rebuilding Laravel.io](https://www.youtube.com/watch?v=ZrRRMBaz5Z0) - Rebuilding Laravel.io with Tailwind CSS.
-- 🎬 [Rebuilding Coinbase](https://www.youtube.com/watch?v=7gX_ApBeSpQ) - Rebuilding Coinbase with Tailwind CSS [see the [Codepen](https://codepen.io/adamwathan/pen/RxWrZr)].
-- 🎬 [Rebuilding Twitter](https://www.youtube.com/watch?v=Pg_5Ni1_bg4) - Rebuilding Twitter with Tailwind CSS [see the [CodePen](https://codepen.io/drehimself/full/vpeVMx)].
-- 🎬 [Rebuilding YouTube](https://www.youtube.com/watch?v=qxQKnqmNKv0) - Rebuilding YouTube with Tailwind CSS.
-- 🎬 [Rebuilding Netlify](https://www.youtube.com/watch?v=_JhTaENzfZQ&t=1263s) - Rebuilding Netlify with Tailwind CSS.
-- 🎬 [Rebuilding Resolute](https://www.youtube.com/watch?v=banq3TfAPYk) - Rebuilding Resolute with Tailwind CSS.
-- 🎬 [Let's Build: Movie Production Landing Page](https://web-crunch.com/tailwind-css-movie-production-landing-page) - Building a movie production landing page with Tailwind CSS.
-- 🎬 [Lets Build: Responsive Navbar](https://web-crunch.com/lets-build-tailwind-css-responsive-navbar) - Building a responsive navbar with Tailwind CSS.
-- 🎬 [Let's Build: Dribbble Shot](https://web-crunch.com/lets-build-tailwind-css-dribbble-shot) - Dribbble shot with Tailwind CSS.
-- 💙🎬 [Tailwind CSS: From Zero to Production](https://www.youtube.com/playlist?list=PL5f_mz_zU5eXWYDXHUDOLBE0scnuJofO0) - Complete walkthrough of Tailwind CSS, from installation to optimization for deployment.
-- 🎬 [Let's Build: Tweet component](https://web-crunch.com/lets-build-tailwind-css-tweet) - Building a Tweet component with Tailwind CSS.
-- 🎓 [Modal Dialog](https://codeburst.io/creating-a-modal-dialog-with-tailwind-css-42722c9aea4f) - Creating a modal dialog with Tailwind CSS.
-- 🎓 [Building real-world UIs using Tailwind CSS](https://github.com/asvny/building-realworld-user-interfaces-using-tailwind) - Building UIs of Shopify, Spotify, Netlify and Atlassian.
-- 🎓 [Rebuilding FreshBooks](http://joey.io/rebuilding-freshbooks-with-tailwind-css) - Rebuilding FreshBooks with Tailwind CSS.
-- 🎓 [Login Page (PingPing)](https://stefanbauer.me/building-pingping/we-build-a-login-using-tailwindcss) - Creating a login page with Tailwind CSS.
-- 🎓 [Login Page](https://mustafaaloko.github.io/2017/tailwind-css-building-a-login-page) - Creating a login page with Tailwind CSS.
-- 🎓 [Vue.js Component with Tailwind and Laravel](https://nick-basile.com/blog/post/how-to-build-a-vuejs-component-with-tailwind-in-a-laravel-project) - Building a Vue.js component in a Laravel project.
-- 🎓 [Vue.js Modal](https://nick-basile.com/blog/post/build-a-customizable-vuejs-modal-with-tailwind-css) - Building a customizable modal with Tailwind CSS and Vue.js.
-- 🎓 [Navigation](https://nick-basile.com/blog/post/building-a-nav-with-tailwind-css) - Building a navigation with Tailwind CSS.
-- 🎓 [Forms with Tailwind CSS](https://css-tricks.com/style-form-tailwind-css) - How to style a form with Tailwind CSS.
-- 🎓 [Photo gallery with CSS grids](https://nick-basile.com/blog/post/building-a-photo-gallery-with-css-grid-and-tailwind-css) - Building a photo gallery with CSS grids and Tailwind CSS.
-- 🎓 [Rebuilding Bartik](https://www.oliverdavies.uk/articles/rebuilding-bartik-with-vuejs-tailwind-css) - Rebuilding Bartik (Drupal's default theme) with Vue.js and Tailwind CSS.
-- 🎓 [Rebuilding Airbnb's Home Page](https://web-crunch.com/re-create-airbnbs-home-page-with-tailwind-css) - Rebuilding Airbnb's Home Page with Tailwind CSS.
+- 💙🧪 [Plugin Examples](https://github.com/tailwindlabs/tailwindcss-plugin-examples) - Официальные примеры плагинов.
+- 🧪 [Tailwind Dark Mode Theme Switcher](https://github.com/huphtur/tailwind-theme-switcher) - Переключение тем с помощью настраиваемых свойств CSS и Tailwind CSS.
+- 🧪 [Acquia](https://github.com/opdavies/rebuilding-acquia) - Панель управления хостингом Acquia, перестроенная с использованием Vue.js и Tailwind CSS.
+- 🧪 [Navbar](https://codepen.io/joshmanders/pen/PQQBoR) - Navbar, созданный с помощью Vue.js и Tailwind CSS.
+- 🧪 [Toggle switch](https://github.com/TowelSoftware/tailwindcss-toggle) - Переключатель с использованием Tailwind CSS.
+- 🧪 [“Open” landing page](https://github.com/michelegera/tailwindcss-open-template/) - «Открытый» шаблон целевой страницы от Cruip, созданный с помощью Tailwind CSS Boilerplate.
+- 🔧 [Testing Tailwind CSS plugins with Jest](https://www.oliverdavies.uk/articles/testing-tailwindcss-plugins-with-jest) - Как тестировать плагины Tailwind CSS с помощью Jest.
+- 🔧 [Tailwind CSS with Webpack 4 and PostCSS](https://paramagicdev.github.io/my-blog/javascript/tailwindWebpackPostCSS) - Как настроить Tailwind CSS с PostCSS и Webpack.
+- 🔧 [Tailwind CSS with CSS-in-JS](https://medium.com/@AndrewDelPrete/using-tailwindcss-with-css-in-js-32ae6796f95c) - Как использовать Tailwind CSS с CSS-in-JS.
+- 🔧 [Tailwind CSS in a Laravel Project](https://nick-basile.com/blog/post/setting-up-tailwind-in-a-laravel-project) - Как настроить Tailwind CSS в проекте Laravel.
+- 🔧 [Tailwind CSS with Ember](https://eaf4.com/how-to-add-tailwindcss-to-an-ember-app) - Как добавить Tailwind CSS в приложение Ember.
+- 🔧 [Sage WordPress theme and Tailwind CSS](https://roots.io/guides/how-to-setup-tailwind-css-in-sage) - Как настроить Tailwind CSS в Sage.
+- 🔧 [Tailwind CSS with GatsbyJS](https://dev.to/jakedohm_34/using-tailwind-with-gatsby-js-10fj) - Как использовать Tailwind CSS с Gatsby.
+- 🔧 [Tailwind CSS with Phoenix 1.4](https://equimper.com/blog/how-to-setup-tailwindcss-in-phoenix-1.4) - Как настроить Tailwind CSS в Phoenix 1.4.
+- 🔧 [Extend Tailwind CSS](https://web-crunch.com/how-to-extend-tailwind-css) - Как расширить Tailwind CSS.
+- 🔧 [Web2Tailwind](https://web2tailwind.com) - Как создавать веб-компоненты с помощью Tailwind CSS с AlpineJS.
+- 🎬 [Rebuilding Laravel.io](https://www.youtube.com/watch?v=ZrRRMBaz5Z0) - Перестройка Laravel.io с помощью Tailwind CSS.
+- 🎬 [Rebuilding Coinbase](https://www.youtube.com/watch?v=7gX_ApBeSpQ) - Перестройка Coinbase с помощью Tailwind CSS [смотрите [Codepen](https://codepen.io/adamwathan/pen/RxWrZr)].
+- 🎬 [Rebuilding Twitter](https://www.youtube.com/watch?v=Pg_5Ni1_bg4) - Перестройка Twitter с помощью Tailwind CSS [смотрите [CodePen](https://codepen.io/drehimself/full/vpeVMx)].
+- 🎬 [Rebuilding YouTube](https://www.youtube.com/watch?v=qxQKnqmNKv0) - Перестройка YouTube с помощью Tailwind CSS.
+- 🎬 [Rebuilding Netlify](https://www.youtube.com/watch?v=_JhTaENzfZQ&t=1263s) - Перестройка Netlify с помощью Tailwind CSS.
+- 🎬 [Rebuilding Resolute](https://www.youtube.com/watch?v=banq3TfAPYk) - Перестройка Resolute с помощью Tailwind CSS.
+- 🎬 [Let's Build: Movie Production Landing Page](https://web-crunch.com/tailwind-css-movie-production-landing-page) - Создание целевой страницы кинопроизводства с помощью Tailwind CSS.
+- 🎬 [Lets Build: Responsive Navbar](https://web-crunch.com/lets-build-tailwind-css-responsive-navbar) - Создание адаптивной навигационной панели с помощью Tailwind CSS.
+- 🎬 [Let's Build: Dribbble Shot](https://web-crunch.com/lets-build-tailwind-css-dribbble-shot) - Дриббл-шот с Tailwind CSS.
+- 💙🎬 [Tailwind CSS: From Zero to Production](https://www.youtube.com/playlist?list=PL5f_mz_zU5eXWYDXHUDOLBE0scnuJofO0) - Полное пошаговое руководство по Tailwind CSS, от установки до оптимизации для развертывания.
+- 🎬 [Let's Build: Tweet component](https://web-crunch.com/lets-build-tailwind-css-tweet) - Создание компонента твита с помощью Tailwind CSS.
+- 🎓 [Modal Dialog](https://codeburst.io/creating-a-modal-dialog-with-tailwind-css-42722c9aea4f) - Создание модального диалога с помощью Tailwind CSS.
+- 🎓 [Building real-world UIs using Tailwind CSS](https://github.com/asvny/building-realworld-user-interfaces-using-tailwind) - Создание пользовательских интерфейсов Shopify, Spotify, Netlify и Atlassian.
+- 🎓 [Rebuilding FreshBooks](http://joey.io/rebuilding-freshbooks-with-tailwind-css) - Перестройка FreshBooks с помощью Tailwind CSS.
+- 🎓 [Login Page (PingPing)](https://stefanbauer.me/building-pingping/we-build-a-login-using-tailwindcss) - Создание страницы входа с помощью Tailwind CSS.
+- 🎓 [Login Page](https://mustafaaloko.github.io/2017/tailwind-css-building-a-login-page) - Создание страницы входа с помощью Tailwind CSS.
+- 🎓 [Vue.js Component with Tailwind and Laravel](https://nick-basile.com/blog/post/how-to-build-a-vuejs-component-with-tailwind-in-a-laravel-project) - Создание компонента Vue.js в проекте Laravel.
+- 🎓 [Vue.js Modal](https://nick-basile.com/blog/post/build-a-customizable-vuejs-modal-with-tailwind-css) - Создание настраиваемого модального окна с помощью Tailwind CSS и Vue.js.
+- 🎓 [Navigation](https://nick-basile.com/blog/post/building-a-nav-with-tailwind-css) - Создание навигации с помощью Tailwind CSS.
+- 🎓 [Forms with Tailwind CSS](https://css-tricks.com/style-form-tailwind-css) - Как стилизовать форму с помощью Tailwind CSS.
+- 🎓 [Photo gallery with CSS grids](https://nick-basile.com/blog/post/building-a-photo-gallery-with-css-grid-and-tailwind-css) - Создание фотогалереи с помощью CSS-сеток и Tailwind CSS.
+- 🎓 [Rebuilding Bartik](https://www.oliverdavies.uk/articles/rebuilding-bartik-with-vuejs-tailwind-css) - Перестройка Bartik (тема по умолчанию Drupal) с помощью Vue.js и Tailwind CSS.
+- 🎓 [Rebuilding Airbnb's Home Page](https://web-crunch.com/re-create-airbnbs-home-page-with-tailwind-css) - Перестройка домашней страницы Airbnb с помощью Tailwind CSS.
 - 🎓 [Typographic defaults in Tailwind CSS](https://www.themes.dev/blog/typographic-defaults-in-tailwind-css/)
 - 🎓 [Create a responsive navigation menu in Tailwind CSS](https://www.themes.dev/blog/responsive-navigation-menu-tailwind-css/)
 - 🎥 [Laracasts Weekly Stream: Tailwind](https://www.youtube.com/watch?v=HIPgzWS-Bxg)
