@@ -37,22 +37,23 @@
 
 ## Полезные ссылки
 
-**Legend**: 💙 Official resource
+**Легенда**: 💙 Официальный ресурс
 
-- 💙 [Website](https://tailwindcss.com) - Official Tailwind CSS website.
-- 💙 [Repository](https://github.com/tailwindcss/tailwindcss) - Official Tailwind CSS repository.
-- 💙 [Discussions](https://github.com/tailwindcss/tailwindcss/discussions) - Official place to connect with other community members about Tailwind.
-- 💙 [Tailwind UI](https://tailwindui.com) - Component library made with Tailwind CSS.
-- 💙 [Headless UI](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components.
-- 💙 [Heroicons](https://heroicons.com/) - Beautiful, hand-crafted SVG icons.
-- 💙 [Play](https://play.tailwindcss.com/) - Advanced online playground for Tailwind CSS.
-- 💙 [Just-in-time](https://github.com/tailwindlabs/tailwindcss-jit) - Just-in-time compiler for Tailwind CSS.
-- [Tailwind Weekly](https://tailwindweekly.com/) - Weekly newsletter about all things Tailwind CSS.
-- [Built With Tailwind](https://builtwithtailwind.com/) - Community-driven collection of awesome websites built with Tailwind CSS.
+- [Перевод](https://tailwindcss.su) - Неофициальный перевод документации Tailwind CSS.
+- 💙 [Веб-сайт](https://tailwindcss.com) - Официальный сайт Tailwind CSS.
+- 💙 [Репозиторий](https://github.com/tailwindcss/tailwindcss) - Официальный репозиторий Tailwind CSS.
+- 💙 [Обсуждения](https://github.com/tailwindcss/tailwindcss/discussions) - Официальное место для общения с другими членами сообщества о Tailwind.
+- 💙 [Tailwind UI](https://tailwindui.com) - Библиотека компонентов, созданная с помощью Tailwind CSS.
+- 💙 [Headless UI](https://github.com/tailwindlabs/headlessui) - Полностью не стилизованные, полностью доступные компоненты пользовательского интерфейса.
+- 💙 [Heroicons](https://heroicons.com/) - Красивые SVG-иконки ручной работы.
+- 💙 [Игровая](https://play.tailwindcss.com/) - Продвинутая онлайн-площадка для Tailwind CSS.
+- 💙 [Как раз вовремя](https://github.com/tailwindlabs/tailwindcss-jit) - Оперативный компилятор для Tailwind CSS.
+- [Еженедельный Tailwind](https://tailwindweekly.com/) - Еженедельный рассылка обо всем, что касается Tailwind CSS.
+- [Построенно с Tailwind](https://builtwithtailwind.com/) - Созданная сообществом коллекция потрясающих веб-сайтов, созданных с помощью Tailwind CSS.
 
 ## Расширения IDE
 
-**Legend**: 💙 Official resource
+**Легенда**: 💙 Официальный ресурс
 
 - 💙 [IntelliSense for Code](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) - IntelliSense extension for Visual Studio Code.
 - [Styled Snippets for Code](https://marketplace.visualstudio.com/items?itemName=muhajirframe.tailwind-styled-snippets) - Snippet extension for Visual Studio Code.
@@ -63,7 +64,7 @@
 
 ## Плагины
 
-**Legend**: 💙 Official plugin · 🎨 Theming · 💼 Utilities · 🧬 Variants · 🧩 Components · 🛑 Deprecated
+**Легенда**: 💙 Official plugin · 🎨 Theming · 💼 Utilities · 🧬 Variants · 🧩 Components · 🛑 Deprecated
 
 - 💙🧩 [Typography](https://github.com/tailwindlabs/tailwindcss-typography) - Adds a `prose` class for beautiful typographic defaults.
 - 💙💼 [Aspect Ratio](https://github.com/tailwindlabs/tailwindcss-aspect-ratio) - Adds composable aspect ratio utilities.
@@ -157,7 +158,7 @@
 
 ## Инструменты
 
-**Legend**: 🌍 Accessible online · 🔼 Conversion or upgrade tool · 🔧 Generator · 🅰 Typing/enforcement · 💼 Plugins/Tools/Extensions for external services · 🎨 Color-related · 🚀 Framework
+**Легенда**: 🌍 Accessible online · 🔼 Conversion or upgrade tool · 🔧 Generator · 🅰 Typing/enforcement · 💼 Plugins/Tools/Extensions for external services · 🎨 Color-related · 🚀 Framework
 
 - 🎨🌍🔧 [Tailwind Color Shades](https://javisperez.github.io/tailwindcolorshades) - Color shades generator for Tailwind CSS.
 - 🎨🌍🔧 [Palette generator](https://adevade.github.io/color-scheme-generator) - Color palette generator that outputs Tailwind CSS configuration files.
@@ -219,7 +220,7 @@
 
 ## UI-библиотеки, компоненты и шаблоны
 
-**Legend**: 💙 Official resource · 📚 Library · 🧩 Components · 📁 Templates
+**Легенда**: 💙 Официальный ресурс · 📚 Library · 🧩 Components · 📁 Templates
 
 - 💙🧩 [Tailwind UI](https://tailwindui.com) - Component library made with Tailwind CSS.
 - 💙📚 [Headless UI](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components.
@@ -263,7 +264,7 @@
 
 ## Стартеры и темы
 
-**Legend**: 💼 Package · 📟 Command line tool/generator · 🚀 Cloneable
+**Легенда**: 💼 Package · 📟 Command line tool/generator · 🚀 Cloneable
 
 - 📟 [Create React App with PurgeCSS](https://github.com/DemianD/create-react-app-tailwindcss) - CRA script that adds Tailwind CSS and PurgeCSS.
 - 📟 [Laravel Preset](https://github.com/use-preset/laravel-tailwindcss) - Adds Tailwind CSS to the Laravel framework.
@@ -305,14 +306,14 @@
 - [Goodwork](https://github.com/iluminar/goodwork) - Project Management & Collaboration tool.
 - [Statusfy](https://github.com/bazzite/statusfy) - Status page system using Tailwind CSS.
 - [Todolist](https://github.com/guillaumebriday/todolist-frontend-vuejs) - To-do list application using Tailwind CSS.
-- [LeagueStats](https://github.com/vkaelin/LeagueStats) - Statistics website for League of Legends players.
+- [LeagueStats](https://github.com/vkaelin/LeagueStats) - Statistics website for League of Легендаs players.
 - [SapperCommerce](https://github.com/itswadesh/sapper-ecommerce) - E-commerce storefront using Svelte & Tailwind CSS.
 - [Misiki Books](https://github.com/itswadesh/misiki-books) - Book shop using Vue + Moltin + Tailwind CSS.
 - [Ubuntu 20.04](https://github.com/vivek9patel/vivek9patel.github.io) - An Ubuntu desktop using React.js + Tailwind CSS.
 
 ## Обучение
 
-**Legend**: 💙 Official resource · 🧪 Sample · 🔧 Setup Tutorial · 🎬 Video Tutorial · 🎓 Component or Page Tutorial · 🎥 Cast
+**Легенда**: 💙 Официальный ресурс · 🧪 Sample · 🔧 Setup Tutorial · 🎬 Video Tutorial · 🎓 Component or Page Tutorial · 🎥 Cast
 
 - 💙🧪 [Plugin Examples](https://github.com/tailwindlabs/tailwindcss-plugin-examples) - Official plugin examples.
 - 🧪 [Tailwind Dark Mode Theme Switcher](https://github.com/huphtur/tailwind-theme-switcher) - Switching themes with CSS Custom Properties and Tailwind CSS.
